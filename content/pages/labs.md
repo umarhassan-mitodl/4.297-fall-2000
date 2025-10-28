@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the lab assignments for the course and tutorials
   on Unified Modeling Language (UML).
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
@@ -19,4 +17,4 @@ Lab Three: Writing Java Applets and GUI Programs that Generate XML ({{% resource
 
 UML and Use Cases for Object-oriented Analysis ({{% resource_link d479df41-9f41-58e7-aa0c-19810a6e0166 "PDF" %}})
 
-[Structuring Specification of Business Systems with UML](http://sourcemaking.com/uml/modeling-business-systems/business-processes-and-business-systems)
+{{% resource_link "654e4c12-cb96-4744-abee-8e1c7ee8e5c0" "Structuring Specification of Business Systems with UML" %}}

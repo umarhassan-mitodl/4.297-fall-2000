@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides the schedule of course topics, readings, and assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -111,7 +109,7 @@ Run Through Example E-Commerce and E-Learning Sites: Discerning the Architecture
 
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631761) Mitchell, William J. _City of Bits_. MIT Press, 1996. ISBN: 9780262631761.
+{{% resource_link "2ce1f650-e69a-433b-ac88-11603361ab27" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Mitchell, William J. _City of Bits_. MIT Press, 1996. ISBN: 9780262631761.
 {{< tdclose >}}
 {{< tdopen >}}
 

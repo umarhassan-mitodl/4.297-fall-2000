@@ -4,8 +4,6 @@ description: Handout on E-learning prototype sites.
 file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/8131ef4563d9ebb43c8d1ce94b64e4ee_ELearning.pdf
 file_size: 40525
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

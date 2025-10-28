@@ -5,8 +5,6 @@ description: Example of student work for a course project on real estate investm
 file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/b199c5431629d764c712cb90b691b55d_AyanSen.pdf
 file_size: 167035
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

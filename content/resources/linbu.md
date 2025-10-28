@@ -5,8 +5,6 @@ description: Example of student work for a course project on a web site architec
 file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/2a67b033af59871f60f8dc2a6ca3c843_LinBu.pdf
 file_size: 199253
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

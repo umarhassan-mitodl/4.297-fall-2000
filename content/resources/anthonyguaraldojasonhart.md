@@ -5,8 +5,6 @@ description: Example of student work for a course project on a web-based bidding
 file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/ee44b14e5d7d8adc118ad907511e8caf_AnthonyGuaraldoJasonHart.pdf
 file_size: 72299
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

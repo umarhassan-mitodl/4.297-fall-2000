@@ -5,8 +5,6 @@ description: Example of student work for a course project on a web-based communi
 file: /courses/4-297-special-problems-in-architecture-studies-fall-2000/583c4b107517bb7b09621e32f8ca1f7a_RichardOBryant.pdf
 file_size: 130263
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
